@@ -1,5 +1,5 @@
 # Chia Plotting Optimization Script
-This script optimizes the movement of Chia Bladebit Cuda plots from SSDs to HDDS. The HDDs write speed is usually the bottleneck of GPU plotting. The script try to prevent GPUT plotting on a SSD which is transferring completed plot to HDD.
+This script optimizes the movement of Chia Bladebit Cuda plots from SSDs to HDDS. The HDDs write speed is usually the bottleneck of GPU plotting. The script try to prevent GPU plotting on a SSD which is transferring completed plot to HDD.
 
 ## Overview
 
